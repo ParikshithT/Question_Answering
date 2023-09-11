@@ -19,7 +19,7 @@ Follow the steps below to clone the GitHub project, contribute via pull requests
 To get started, clone the GitHub repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/qa-streamlit-app.git
+https://github.com/ParikshithT/Question_Answering.git
 ```
 
 ### Contribute via Pull Requests
@@ -48,7 +48,7 @@ Before running the Streamlit app, you need to install the required dependencies.
 
 1. Navigate to the project folder:
    ```bash
-   cd qa-streamlit-app
+   cd Question_Answering
    ```
 
 2. Create a virtual environment (optional but recommended):
